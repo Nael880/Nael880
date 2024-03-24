@@ -16,7 +16,7 @@
 
 ## Ongoing Project
 🚀 [ODYSSEY]([link](https://nael880.github.io/projets/odyssey.html)) - A 3D platformer videogame & an multiplayer RPG
-
+![](https://nael880.github.io/Logos/OdysseyLogoV2_21.png)
 
 ## Stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Nael880&show_icons=true&theme=radical)](https://github.com/Nael880)
