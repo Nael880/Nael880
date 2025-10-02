@@ -2,8 +2,8 @@
 
 ## About me
 
-🎓 Computer Science student at UGA  
-💻 Video game developer on UE4 in my spare time
+-> Computer Science student at UGA  
+-> Video game developer on UE4 in my spare time
 
 ## Skills
 
